@@ -1,0 +1,737 @@
+.mac-book-air-1,
+.mac-book-air-1 * {
+  box-sizing: border-box;
+}
+.mac-book-air-1 {
+  background: black;
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-5 {
+  background: rgba(255, 0, 26, 0.6);
+  border-radius: 50%;
+  width: 60.35px;
+  height: 60.35px;
+  position: absolute;
+  left: 83px;
+  top: 53.98px;
+}
+.ellipse-6 {
+  background: rgba(255, 0, 26, 0.6);
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+  position: absolute;
+  left: 83px;
+  top: 44px;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-1 {
+  background: #ff001a;
+  border-radius: 50%;
+  width: 503px;
+  height: 503px;
+  position: absolute;
+  left: 708px;
+  top: 279px;
+}
+.ellipse-2 {
+  background: rgba(255, 0, 26, 0.25);
+  border-radius: 50%;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+  left: 938px;
+  top: 160px;
+}
+.ellipse-3 {
+  background: rgba(255, 0, 26, 0.5);
+  border-radius: 50%;
+  width: 205px;
+  height: 205px;
+  position: absolute;
+  left: 1047px;
+  top: 236px;
+}
+.ellipse-4 {
+  background: rgba(255, 0, 26, 0.5);
+  border-radius: 50%;
+  width: 205px;
+  height: 205px;
+  position: absolute;
+  left: -70px;
+  top: 712px;
+}
+.sanjuck-subba {
+  color: rgba(21, 255, 138, 0.82);
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 83px;
+  top: 55px;
+}
+.home {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 583px;
+  top: 71px;
+}
+.about {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 690px;
+  top: 71px;
+}
+.service {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 801px;
+  top: 71px;
+}
+.portfolio {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 920px;
+  top: 62px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: red;
+  border-radius: 10px;
+  width: 145px;
+  height: 32px;
+  position: absolute;
+  left: 1066px;
+  top: 70px;
+}
+.contact {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 1106px;
+  top: 71px;
+}
+.hi-i-m-sanjuck-subba {
+  color: white;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 287px;
+}
+.hi-i-m-sanjuck-subba-span {
+  color: white;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.hi-i-m-sanjuck-subba-span2 {
+  color: white;
+  font-family: "LilyScriptOne-Regular", sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+}
+.web-designer {
+  color: red;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 349px;
+}
+.a-talented-web-designer-with-crazy-designing-i-blend-creativity-with-functionality-focusing-on-responsive-design-intuitive-navigation-and-delivering-seamless-digital-experiences-that-engage-users-effectively {
+  color: white;
+  text-align: left;
+  font-family: "Labrada-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 430px;
+}
+.group {
+  width: 1.33%;
+  height: 2.04%;
+  position: absolute;
+  right: 85.47%;
+  left: 13.2%;
+  bottom: 28.61%;
+  top: 69.35%;
+  overflow: visible;
+}
+.vector {
+  width: 1.33%;
+  height: 2.04%;
+  position: absolute;
+  right: 82.5%;
+  left: 16.17%;
+  bottom: 28.61%;
+  top: 69.35%;
+  overflow: visible;
+}
+.find-me-on {
+  color: white;
+  text-align: left;
+  font-family: "Lexend-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 113px;
+  top: 539px;
+}
+.group2 {
+  width: 1.02%;
+  height: 2.08%;
+  position: absolute;
+  right: 88.44%;
+  left: 10.55%;
+  bottom: 28.57%;
+  top: 69.35%;
+  overflow: visible;
+}
+.whats-app-image-2024-10-06-at-00-33-54-d-8-ccdd-18-1 {
+  width: 733px;
+  height: 578px;
+  position: absolute;
+  left: 640px;
+  top: 292px;
+  object-fit: cover;
+}
+.pepicons-pop-line-x {
+  border-radius: 4px;
+  width: 30px;
+  height: 12px;
+  position: absolute;
+  left: 592px;
+  top: 90px;
+  overflow: visible;
+}
+
+.mac-book-air-2,
+.mac-book-air-2 * {
+  box-sizing: border-box;
+}
+.mac-book-air-2 {
+  background: rgba(0, 0, 0, 0.65);
+  height: 832px;
+  position: relative;
+  overflow: hidden;
+}
+.whats-app-image-2024-10-06-at-00-33-54-1-d-2-b-739-d-1 {
+  width: 466px;
+  height: 563px;
+  position: absolute;
+  left: 75px;
+  top: 102px;
+  object-fit: cover;
+}
+.about-me {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 640px;
+  top: 115px;
+}
+.as-a-ux-designer-my-passion-lies-in-crafting-intuitive-user-centered-experiences-that-make-digital-interactions-seamless-and-enjoyable-i-m-driven-by-a-desire-to-deeply-understand-the-needs-behaviors-and-pain-points-of-users-through-thorough-research-and-empathy-driven-design-i-strive-to-create-solutions-that-solve-real-problems-and-improve-everyday-digital-life-whether-i-m-sketching-wireframes-creating-user-flows-or-developing-interactive-prototypes-my-focus-is-always-on-balancing-creativity-with-functionality-collaboration-is-a-key-aspect-of-my-work-i-work-closely-with-developers-product-managers-and-other-stakeholders-to-ensure-that-every-design-decision-aligns-with-both-user-expectations-and-business-goals-i-m-committed-to-making-products-not-only-visually-appealing-but-also-accessible-and-efficient-ensuring-a-positive-user-experience-across-all-touchpoints-ultimately-my-goal-is-to-enhance-usability-accessibility-and-user-satisfaction-helping-create-products-that-people-love-to-interact-with {
+  color: white;
+  text-align: left;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 640px;
+  top: 226px;
+  width: 562px;
+}
+.hello-there-i-m-sanjuck-subba {
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 640px;
+  top: 173px;
+}
+.hello-there-i-m-sanjuck-subba-span {
+  color: white;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.hello-there-i-m-sanjuck-subba-span2 {
+  color: rgba(21, 255, 138, 0.82);
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+}
+.mac-book-air-5,
+.mac-book-air-5 * {
+  box-sizing: border-box;
+}
+.mac-book-air-5 {
+  background: black;
+  height: 1220px;
+  position: relative;
+  overflow: hidden;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.portfolio {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 553px;
+  top: 62px;
+}
+.pepicons-pop-line-x {
+  border-radius: 4px;
+  width: 129px;
+  height: 19px;
+  position: absolute;
+  left: 575px;
+  top: 101px;
+  overflow: visible;
+}
+.a-portfolio-showcases-a-designer-s-best-work-demonstrating-skills-creativity-and-expertise-it-includes-various-projects-highlighting-design-processes-problem-solving-abilities-and-the-impact-of-the-work-on-users {
+  color: white;
+  text-align: center;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 134px;
+  width: 928px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 120px;
+  top: 735px;
+  object-fit: cover;
+}
+.image2 {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 477px;
+  top: 291px;
+  object-fit: cover;
+}
+.image3 {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 120px;
+  top: 291px;
+  object-fit: cover;
+}
+.image4 {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 477px;
+  top: 735px;
+  object-fit: cover;
+}
+.image5 {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 835px;
+  top: 291px;
+  object-fit: cover;
+}
+.image6 {
+  width: 325px;
+  height: 412px;
+  position: absolute;
+  left: 834px;
+  top: 735px;
+  object-fit: cover;
+}
+.frame-9 {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 659px;
+  position: absolute;
+  left: 309px;
+  top: 214px;
+}
+.frame-8 {
+  display: flex;
+  flex-direction: row;
+  gap: 31px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-2 {
+  background: green;
+  border-radius: 14px;
+  flex-shrink: 0;
+  width: 57px;
+  height: 26px;
+  position: relative;
+}
+.web-design {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ui-design {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.brand-identity {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.photography {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.all {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 15px;
+  top: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mac-book-air-3,
+.mac-book-air-3 * {
+  box-sizing: border-box;
+}
+.mac-book-air-3 {
+  background: black;
+  height: 934px;
+  position: relative;
+  overflow: hidden;
+}
+.services {
+  color: white;
+  text-align: left;
+  font-family: "Lalezar-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 400;
+  position: absolute;
+  left: 558px;
+  top: 91px;
+}
+.pepicons-pop-line-x {
+  border-radius: 4px;
+  width: 115px;
+  height: 19px;
+  position: absolute;
+  left: 585px;
+  top: 128px;
+  overflow: visible;
+}
+.i-offer-comprehensive-ux-design-services-focusing-on-user-research-wireframes-prototypes-and-seamless-interfaces-my-goal-is-to-create-intuitive-accessible-and-engaging-digital-experiences-that-align-with-user-needs-and-business-objectives {
+  color: white;
+  text-align: center;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  left: 114px;
+  top: 162px;
+  width: 1061px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+  row-gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  width: 1092px;
+  position: absolute;
+  left: 97px;
+  top: 266px;
+}
+.frame-1 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  position: relative;
+}
+.vector {
+  flex-shrink: 0;
+  width: 54px;
+  height: 45px;
+  position: relative;
+  overflow: visible;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.web-design {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.web-design-creates-functional-visually-appealing-websites-ensuring-usability-responsiveness-and-a-smooth-user-experience {
+  color: white;
+  text-align: center;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-22 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  height: 284px;
+  position: relative;
+}
+.fluent-paint-brush-16-filled {
+  flex-shrink: 0;
+  width: 54px;
+  height: 54px;
+  position: relative;
+  overflow: visible;
+}
+.copyright {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.copyright-grants-legal-protection-to-creators-giving-them-exclusive-rights-to-use-and-distribute-their-work {
+  color: white;
+  text-align: center;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-3 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  height: 284px;
+  position: relative;
+}
+.bxs-file {
+  border-radius: 54px;
+  flex-shrink: 0;
+  width: 54px;
+  height: 54px;
+  position: relative;
+  overflow: visible;
+}
+.graphic-desiging {
+  color: white;
+  text-align: center;
+  font-family: "Inder-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.graphic-design-combines-art-and-technology-to-communicate-ideas-visually-through-typography-images-and-layouts {
+  color: white;
+  text-align: center;
+  font-family: "JejuGothic-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-5 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  height: 284px;
+  position: relative;
+}
+.fluent-paint-brush-16-filled2 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 54px;
+  position: relative;
+  overflow: visible;
+}
+.frame-4 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  position: relative;
+}
+.vector2 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 45px;
+  position: relative;
+  overflow: visible;
+}
+.frame-6 {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)),
+    linear-gradient(to left, white, white);
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 340px;
+  height: 284px;
+  position: relative;
+}
+.bxs-file2 {
+  border-radius: 54px;
+  flex-shrink: 0;
+  width: 54px;
+  height: 54px;
+  position: relative;
+  overflow: visible;
+}
